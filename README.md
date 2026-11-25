@@ -4,7 +4,7 @@ We used Excel, Python (Matplotlib), and Power BI to explore the same e-commerce 
 
 ## Power BI Dashboard Preview
 
-![Power BI Home dashboard]("C:\Users\ajeet\OneDrive\Desktop\Power BI\Screenshot 2026-11-24 182820.png")
+"C:\Users\ajeet\OneDrive\Desktop\Power BI\Screenshot 2026-11-24 182820.png"
 
 ## Matplotlib Dashboard Preview
 
